@@ -1,6 +1,9 @@
 # 62256-sram-tester
 
-This program tests a 62256 SRAM IC using an Arduino.
+This program tests a 62256 SRAM IC using an Arduino. 
+
+Keep in mind that this is not intented to be a comprehensive test. It just gives one some idea on whether some addresses are problematic or not. Remember: *"Program testing can be used to show the presence of bugs, but never to show their absence!"* Dijkstra 
+:-)
 
 **How to test your memory**: 
 1. Clone the repository
