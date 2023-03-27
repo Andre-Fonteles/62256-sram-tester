@@ -12,7 +12,7 @@ It is not intented to be a comprehensive test. It just gives one some rough idea
 2. Wire your arduino to the address pins, data pins, Chip Select (CS), Write Enable (WE) and Output Enable (OE).
 3. Adjust the constants ADDR_PINS, DATA_PINS, CS_PIN, WE_PIN and OE_PIN for each pin if necessary.
 4. Load and execute the program into your arduino.
-5. Check the progress and results in you Serial Monitor. (57600 Baud Rate)
+5. Check the progress and results in your Serial Monitor. (57600 Baud Rate)
 
 If any errors are found, they will be displayed in your Serial Monitor.
 
